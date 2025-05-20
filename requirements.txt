@@ -1,0 +1,6 @@
+pandas
+openpyxl
+ics
+PyPDF2
+google-generativeai
+streamlit # Adicione esta linha! Você precisará do Streamlit também.
